@@ -3,6 +3,15 @@ CONTRIBUTION JOURNAL
 TOBIAS C:
 July 15, 2026
 Created the GitHub Repo.
+Added the Lab 7 submission to the repo. 
+Reviewed the notebook, corrected coding errors, ran all cells, and verified the final outputs.
+Learned about better model evaluation and its concepts.
+
+Key results:
+Test-set accuracy: 80%
+Five-fold cross-validation average: 78.68%
+Cross-validation standard deviation: 0.0094
+The small variation among the five cross-validation scores indicates relatively stable model performance across different data splits.
 
 -----
 LAURA CONOVER:
